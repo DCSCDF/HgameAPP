@@ -15,7 +15,7 @@ JiuLiu's H game sharing web app version
 
 
 <p>
-  <a>
+  <a href="https://opensource.org/license/MIT">
     <img src="https://img.shields.io/github/license/layui/layui" alt="License">
   </a>
   <a>
