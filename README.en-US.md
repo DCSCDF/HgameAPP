@@ -7,7 +7,7 @@
 
 # Hgameapp
 
-[中文](./README.md) · english
+[中文](./README.md) · English
 
 JiuLiu的黄油分享web的app版本
 #### 下载请在右侧Releases处 😀
