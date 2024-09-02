@@ -9,9 +9,9 @@
 
 [中文](./README.md) · English
 
-JiuLiu的黄油分享web的app版本
-#### 下载请在右侧Releases处 😀
-#### 聊天分享QQ群:971032360(资源寄了群里找我) 🌱
+JiuLiu's H game sharing web app version
+#### Please download from the Releases section on the right 😀
+#### Chat and share QQ group: 971032360 (resources are not available, find me in the group) 🌱
 
 
 <p>
@@ -22,6 +22,6 @@ JiuLiu的黄油分享web的app版本
     <img src="https://img.shields.io/badge/npm-package-red" alt="NPM">
   </a>
 </p>
-## 开源许可
+##  Open source license
 
-Hgameapp 采用 [MIT](https://opensource.org/licenses/MIT) 许可发布。
+Hgameapp is released under the [MIT](https://opensource.org/licenses/MIT) license.。
