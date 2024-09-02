@@ -21,4 +21,4 @@ JiuLiu的黄油分享web的app版本
 </p>
 ## 开源许可
 
-Hgameapp 采用 [MIT](https://opensource.org/licenses/MIT) 许可发布。其他相关协议亦可参考《[免责声明](https://gitee.com/layui/layui/blob/main/DISCLAIMER.md)》。
+Hgameapp 采用 [MIT](https://opensource.org/licenses/MIT) 许可发布。
