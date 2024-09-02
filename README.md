@@ -10,7 +10,7 @@
 中文 · [English](./README.en-US.md)
 
 JiuLiu的黄油分享web的app版本
-#### 下载请在右侧版本处 😀
+#### 下载请在右侧Releases处 😀
 #### 聊天分享QQ群:971032360(资源寄了群里找我) 🌱
 
 
