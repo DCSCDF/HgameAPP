@@ -1,0 +1,8 @@
+directories:
+  output: dist
+  buildResources: build
+win:
+  target: squirrel
+  icon: ./build/icons/512x512.png
+files: []
+electronVersion: 29.1.6
