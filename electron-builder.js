@@ -1,0 +1,6 @@
+module.exports = {
+    // 其他配置项...
+    android: {
+        // 配置项...
+    }
+};

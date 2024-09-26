@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow: hidden
+}
+
+.contentG {
+    height: calc(100vh - 100px);
+    overflow-y: scroll;
+}
+
+.box {
+    width: auto;
+
+    text-align: center;
+    /*给父元素设置text-align*/
+}
+
+.tian {
+    padding: 0px 0px 10px 0px;
+}
+
+.tian1 {
+    padding: 60px 0px 0px 0px;
+}
+
+.tian0 {
+    margin: 58px 0px 0px 0px;
+}
+
+.chakan {
+    margin: 30px;
+}
+
+.chakan2 {
+    margin: 10px;
+}
+
+.chakan1 {
+    margin: 15px;
+    text-decoration: underline;
+}
+
+.chakan3 {
+    padding: 0px 0px 10px 0px;
+
+}
+
+.guding {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 60px;
+
+}
+
+.layui-body1 {
+    position: relative;
+    /* left: 200px; */
+    /* right: 0; */
+    top: 0;
+    bottom: 0;
+    z-index: 900;
+    width: auto;
+    box-sizing: border-box;
+}
+
+.bgc {
+    background: url("../build/DSC05181.JPG") no-repeat center;
+    background-size: cover;
+}
+
+.bgc1 {
+    background: url("../build/89N%G8V1X0]RGK4_NI5RA17.png") no-repeat center;
+    background-size: cover;
+}
+
+.layui-layout-admin .layui-footer1 {
+    position: fixed;
+    width: 10000px;
+    /* right: 0; */
+    bottom: 0;
+    z-index: 990;
+    height: 44px;
+    line-height: 44px;
+    padding: 0 15px;
+    box-shadow: -1px 0 4px rgb(0 0 0 / 12%);
+    background-color: #fafafa;
+}
